@@ -5,7 +5,7 @@ The interface is built with **CustomTkinter** in a VS Code–inspired dark theme
 
 ---
 
-## 🖼 Screenshot
+##  Screenshot
 
 <p align="center">
   <img src="images/gui.png" alt="Article Scraper GUI" width="700"/>
